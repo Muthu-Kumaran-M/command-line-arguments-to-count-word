@@ -37,9 +37,9 @@ with open(fname,'r') as f:
 print('Number of words: ',num_words)        
 ```
 ### OUTPUT:
-![output](/text%20file.png)
+![Exp 5 1](https://github.com/Muthu-Kumaran-M/command-line-arguments-to-count-word/assets/144979439/a2758bc3-3a74-421a-9431-500ed2176981)
 
-![output](/python%20result.png)
+![python result](https://github.com/Muthu-Kumaran-M/command-line-arguments-to-count-word/assets/144979439/f4dd4e04-e2fe-441e-9779-2e34b6807abd)
 
 
 ## RESULT:
